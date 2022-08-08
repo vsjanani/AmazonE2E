@@ -575,3 +575,11 @@ Account & Lists
 Account & Lists
 2022-08-08 19:22:40,468, INFO, test_dropDownValidation, clicked link
 2022-08-08 19:22:41,167, INFO, test_dropDownValidation, janani
+2022-08-08 20:41:56,707, INFO, test_dropDownValidation, amazon devices is selected - to check commit message using editor
+2022-08-08 20:41:57,018, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-08 20:42:33,293, INFO, test_dropDownValidation, amazon devices is selected - to check commit message using editor
+2022-08-08 20:42:33,629, INFO, test_dropDownValidation, Hello, Sign in
+Account & Lists
+2022-08-08 20:42:35,256, INFO, test_dropDownValidation, clicked link
+2022-08-08 20:42:35,494, INFO, test_dropDownValidation, janani
