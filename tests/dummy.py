@@ -28,7 +28,7 @@ webdriverObj.find_element(By.CSS_SELECTOR, "#auth-continue").click()
 expWait = WebDriverWait(webdriverObj, 10).until(expected_conditions.presence_of_element_located(myloc)).get_attribute("value")
 # print(webdriverObj.find_element(*myloc).get_attribute("value"))
 print(expWait)
-
+print("hello")
 # webdriverObj.get("http://automationpractice.com/index.php")
 # webdriverObj.find_element(By.CSS_SELECTOR, "#search_query_top").send_keys("summer dress")
 # mouseHover = ActionChains(webdriverObj)
