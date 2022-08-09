@@ -28,6 +28,7 @@ webdriverObj.find_element(By.CSS_SELECTOR, "#auth-continue").click()
 expWait = WebDriverWait(webdriverObj, 10).until(expected_conditions.presence_of_element_located(myloc)).get_attribute("value")
 # print(webdriverObj.find_element(*myloc).get_attribute("value"))
 print(expWait)
+print("To check if new branch addtocart is working in git")
 
 
 # webdriverObj.get("http://automationpractice.com/index.php")
@@ -41,5 +42,6 @@ print(expWait)
 
 #verified full project upload in github
 #feature_shopping branch update
+#feature_addtocart branch updated.I have updated this.
 
 
