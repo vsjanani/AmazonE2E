@@ -43,5 +43,6 @@ print("To check if new branch addtocart is working in git")
 #verified full project upload in github
 #feature_shopping branch update
 #feature_addtocart branch updated.I have updated this.
+#checking with command terminal
 
 
